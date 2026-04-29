@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9dbc2aaf-2d75-418c-bb95-f67c8d909177",
+  "export_job_id": "7c54e8b5-33f6-4bd7-bb09-9ed3b17719a4",
   "id_short": 991622,
-  "published_at": "2026-04-22T19:11:48Z",
+  "published_at": "2026-04-29T19:20:35Z",
   "repo_name": "the-hhi-monopoly-index-for-tampa-st-petersburg-clearwater-metro-area-fl-us-sample-991622",
   "sample_asset_name": "beamstation_991622_restaurants-us-tampastpetersburgclearwaterfl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/991622/beamstation_991622_restaurants-us-tampastpetersburgclearwaterfl_SAMPLE_DIST.csv",
-  "sample_records": 14,
-  "sample_sha256": "33366fd5545be29b70e6f18d5f3a2d585d0d45a7dce6a24dc563fa6a24a2df70",
-  "sample_size_bytes": 71854,
-  "total_records": 144
+  "sample_records": 23,
+  "sample_sha256": "5a99ba000845df252cca48bdc8b637b8e35db858f0a223b6f925e828c4b8f814",
+  "sample_size_bytes": 102060,
+  "total_records": 231
 }
